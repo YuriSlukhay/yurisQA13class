@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" group="sandbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" group="sandbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumTest.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumTest_main.iml" group="seleniumTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seleniumTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/seleniumTest_test.iml" group="seleniumTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloSeleniumProject.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloSeleniumProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_main.iml" group="trelloSeleniumProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/trelloSeleniumProject_test.iml" group="trelloSeleniumProject" />
+    </modules>
+  </component>
+</project>
